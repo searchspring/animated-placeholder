@@ -32,9 +32,3 @@ npm run dev
 ```
 
 Demo: https://localhost:3333
-
-## Clean
-Removes all package and root `node_modules` directories and package-lock.json; additionally removes generated documentation and test coverage data.
-```shell
-npm run clean
-```
